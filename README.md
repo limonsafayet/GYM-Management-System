@@ -1,0 +1,3 @@
+## Info
+
+# Angular 10 Project with ASP.NET CORE WEB APIS (GYM MANAGEMENT SYSTEM)
